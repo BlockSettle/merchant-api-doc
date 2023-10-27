@@ -1,5 +1,5 @@
 ## Blocksettle Merchant API Documentation 
-# Title: Payment Processing API Documentation
+### Payment Processing API Documentation
 
 ## Endpoint: POST /payin
 
