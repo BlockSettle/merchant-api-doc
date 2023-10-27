@@ -16,7 +16,7 @@ Initiates a payment into a specified account.
 ```json
 {
     "amount": 200.0,
-    "currecny" : "SEK"
+    "currecny" : "EUR"
 }
 ```
 
